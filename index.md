@@ -10,7 +10,8 @@ An adventure seeking data scientist and developer with a passion for technology 
 <div id="webaddress">
 Phone: <a href="#">+46 (0)722-034579</a> <br>
 Email: <a href="ingrid@kugelberg.ai">ingrid@kugelberg.ai</a> <br>  
-Webpage: <a href="http://kugelberg.ai">kugelberg.ai</a>
+Webpage: <a href="http://kugelberg.ai">kugelberg.ai</a> <br>
+LinkedIn: <a href="https://www.linkedin.com/in/ingridkugelberg/" target="_blank"> ingridkugelberg</a>
 </div>
 
 ## Skills
@@ -30,7 +31,7 @@ Javascript, React.js, Elastic Search, Kubernetes, SQlite, MongoDB
 
 ### Nov 2017 - Current  
 __Data Scientist, Ivbar (Consultant)__, Stockholm/Remote  
-Together with Angered muncipality Ivbar are conducting a project to improve the performance in schools by predicting the truancy of students to facilitate preventative measures. I am supporting this project for Ivbar and I am responsible for all data analysis and development.
+Together with Angered municipality Ivbar are conducting a project to improve the performance in schools by predicting the truancy of students to facilitate preventative measures. I am supporting this project for Ivbar and I am responsible for all data analysis and development.
 
 - **Tech Stack:** Python, Jupyter, Scikit learn, Keras, Flask, Docker
 
@@ -68,6 +69,7 @@ My main responsibilities included designing and developing algorithms using AI a
 
 ### Sep 2015 - Feb 2016    
 __Master Thesis in Automatic Control, Saab Dynamics AB__  
+
  - Thesis: Black-Box Modeling and Attitude Control of a Quadcopter
 
 ### Fall 2015   
