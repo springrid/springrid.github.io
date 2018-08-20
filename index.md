@@ -8,10 +8,10 @@ An adventure seeking data scientist and developer with a passion for technology 
 
 ### Contact 
 <div id="webaddress">
-Phone: <a href="#">+46 (0)722-034579</a> <br>
+<!--Phone: <a href="#">+46 (0)722-034579</a> <br> -->
 Email: <a href="ingrid@kugelberg.ai">ingrid@kugelberg.ai</a> <br>  
+LinkedIn: <a href="https://www.linkedin.com/in/ingridkugelberg/" target="_blank"> ingridkugelberg</a><br>
 Webpage: <a href="http://kugelberg.ai">kugelberg.ai</a> <br>
-LinkedIn: <a href="https://www.linkedin.com/in/ingridkugelberg/" target="_blank"> ingridkugelberg</a>
 </div>
 
 ## Skills
@@ -19,27 +19,36 @@ LinkedIn: <a href="https://www.linkedin.com/in/ingridkugelberg/" target="_blank"
 ### Strong
 **AI, Machine Learning, Data Science**: Python, Go, Tensorflow, Keras, Pytorch, Pandas, Scikit-learn, Matlab
  
-**Backend**: Python, Flask, Django, Golang, Docker, HTML5, CSS3, MySQL, PostgreSQL
+**Backend**: Python, Flask, Django, Golang, Docker, MySQL, PostgreSQL, MongoDB
 
-**Tools / Other**: Git, Jenkins, Trello, Jira, Slack, Markdown, Latex
+**Tools / Other**: Git, Jenkins, Trello, Jira, Slack, Latex
 
 ### Knowledgeable
-Javascript, React.js, Elastic Search, Kubernetes, SQlite, MongoDB
+Javascript, React.js, Node.js, Elastic Search, Kubernetes
 
 
 ## Projects
 
-### Nov 2017 - Current  
+### Aug 2018 - Current
+__Lead Neural Network Developer, Neiron (Consultant)__, Remote  
+Deep Learning
+
+### Aug 2018 - Current
+__AI Engineer, Project Cosimo (Consultant)__, Stockholm/Remote  
+Projects in AI solved with Reinforcement Learning
+- **Tech Stack:** Python
+
+### Nov 2017 - Aug 2018  
 __Data Scientist, Ivbar (Consultant)__, Stockholm/Remote  
 Together with Angered municipality Ivbar are conducting a project to improve the performance in schools by predicting the truancy of students to facilitate preventative measures. I am supporting this project for Ivbar and I am responsible for all data analysis and development.
 
-- **Tech Stack:** Python, Jupyter, Scikit learn, Keras, Flask, Docker
+- **Tech Stack:** Python, Jupyter, Scikit learn, Flask, Docker
 
-### Nov 2017 - Current  
+### Nov 2017 - Aug 2018  
 __Backend Developer, Netnod (Consultant)__, Stockholm   
 Working in a team of developers, my role is to help the team in their daily work, mainly consisting of development and testing of api services written in Go.
 
- - **Tech Stack:** Go, Python, Postgres, Docker, Gitlab
+- **Tech Stack:** Go, Python, Postgres, Docker, Gitlab
 
 ### Oct 2017  
 __Web Scraping, SolutionLoft__, US/Remote  
@@ -55,8 +64,10 @@ Work as an independent consultant in Data Science, AI and Machine Learning but a
   
 Clients include: 
 
- - Ivbar
+ - Neiron
+ - Project Cosimo
  - Netnod
+ - Ivbar
  - SolutionLoft
 
 ### Mar 2016 - Oct 2017    
@@ -98,9 +109,10 @@ __The Institute of Technology at Linköping University__
 
 - Thesis: Autonomous Mapping Robot
 - GPA: 4.1/5.0
+<br><br>
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Aug 2018 -->
 
 
