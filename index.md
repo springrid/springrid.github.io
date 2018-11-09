@@ -17,26 +17,29 @@ Webpage: <a href="http://kugelberg.ai">kugelberg.ai</a> <br>
 ## Skills
 
 ### Strong
-**AI, Machine Learning, Data Science**: Python, Go, Tensorflow, Keras, Pytorch, Pandas, Scikit-learn, Matlab
+**AI, Machine Learning, Data Science**: Python, Go, Tensorflow, Keras, Pytorch, Pandas, Scikit-learn
  
-**Backend**: Python, Flask, Django, Golang, Docker, MySQL, PostgreSQL, MongoDB
+**Backend**: Python, Flask, Django, Golang, MySQL, PostgreSQL, MongoDB
 
-**Tools / Other**: Git, Jenkins, Trello, Jira, Slack, Latex
+**Tools / Other**: Docker, Git, Jenkins/Travis, Latex, Matlab
 
 ### Knowledgeable
-Javascript, React.js, Node.js, Elastic Search, Kubernetes
+React.js, Node.js, Elastic Search, Kubernetes
 
 
 ## Projects
 
-### Aug 2018 - Current
-__Lead Neural Network Developer, Neiron (Consultant)__, Remote  
-Deep Learning
+### Nov 2018 - Current
+__Data Scientist, Assa Abloy (Consultant)__, Stockholm  
+Computer Vision and Data Analytics.
 
 ### Aug 2018 - Current
 __AI Engineer, Project Cosimo (Consultant)__, Stockholm/Remote  
 Projects in AI solved with Reinforcement Learning
-- **Tech Stack:** Python
+
+### Aug 2018 - Okt 2018
+__Lead Neural Network Developer, Neiron (Consultant)__, Remote  
+Deep Learning
 
 ### Nov 2017 - Aug 2018  
 __Data Scientist, Ivbar (Consultant)__, Stockholm/Remote  
@@ -64,6 +67,7 @@ Work as an independent consultant in Data Science, AI and Machine Learning but a
   
 Clients include: 
 
+ - Assa Abloy
  - Neiron
  - Project Cosimo
  - Netnod
