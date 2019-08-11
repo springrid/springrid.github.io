@@ -4,14 +4,13 @@ title: Ingrid Kugelberg's CV
 ---
 # Ingrid Kugelberg  
 
-An adventure seeking data scientist and developer with a passion for technology and the outdoors.
+An adventure seeking developer with a passion for technology and the outdoors. Loves kitesurfing, running and dogs.
 
 ### Contact 
 <div id="webaddress">
 <!--Phone: <a href="#">+46 (0)722-034579</a> <br> -->
 Email: <a href="ingrid@kugelberg.ai">ingrid@kugelberg.ai</a> <br>  
-LinkedIn: <a href="https://www.linkedin.com/in/ingridkugelberg/" target="_blank"> ingridkugelberg</a><br>
-Webpage: <a href="http://kugelberg.ai">kugelberg.ai</a> <br>
+LinkedIn: <a href="https://www.linkedin.com/in/ingridkugelberg/" target="_blank"> ingridkugelberg</a> <br>
 </div>
 
 ## Skills
@@ -21,19 +20,24 @@ Webpage: <a href="http://kugelberg.ai">kugelberg.ai</a> <br>
  
 **Backend**: Python, Flask, Django, Golang, MySQL, PostgreSQL, MongoDB
 
-**Tools / Other**: Docker, Git, Jenkins/Travis, Latex, Matlab
+**Tools / Other**: Docker, Kubernetes, Git, Jenkins/Travis, Latex, Matlab
 
 ### Knowledgeable
-React.js, Node.js, Elastic Search, Kubernetes
+React.js, Node.js, Elastic Search
 
 
 ## Projects
 
-### Nov 2018 - Current
+### Dec 2019 - Current
+__Tech Lead, Project Cosimo (Consultant)__, Stockholm  
+Project Cosimo uses ML and reinforcement learning to automate tasks such as logistics planning, transaction matching and other cognitive tasks.
+
+
+### Nov 2018 - Dec 2018
 __Data Scientist, Assa Abloy (Consultant)__, Stockholm  
 Computer Vision and Data Analytics.
 
-### Aug 2018 - Current
+### Aug 2018 - Dec 2018
 __AI Engineer, Project Cosimo (Consultant)__, Stockholm/Remote  
 Projects in AI solved with Reinforcement Learning
 
@@ -45,19 +49,13 @@ Deep Learning
 __Data Scientist, Ivbar (Consultant)__, Stockholm/Remote  
 Together with Angered municipality Ivbar are conducting a project to improve the performance in schools by predicting the truancy of students to facilitate preventative measures. I am supporting this project for Ivbar and I am responsible for all data analysis and development.
 
-- **Tech Stack:** Python, Jupyter, Scikit learn, Flask, Docker
-
 ### Nov 2017 - Aug 2018  
 __Backend Developer, Netnod (Consultant)__, Stockholm   
 Working in a team of developers, my role is to help the team in their daily work, mainly consisting of development and testing of api services written in Go.
 
-- **Tech Stack:** Go, Python, Postgres, Docker, Gitlab
-
 ### Oct 2017  
 __Web Scraping, SolutionLoft__, US/Remote  
 Completing various smaller projects in web scraping for SolutionLoft
-
-- **Tech Stack:** Python, Requests, BeautifulSoup, SQLAlchemy, PostgreSQL, dbSqlite
 
 ## Experience
 
@@ -67,15 +65,15 @@ Work as an independent consultant in Data Science, AI and Machine Learning but a
   
 Clients include: 
 
+ - Project Cosimo
  - Assa Abloy
  - Neiron
- - Project Cosimo
  - Netnod
  - Ivbar
  - SolutionLoft
 
 ### Mar 2016 - Oct 2017    
-__Data Scientist and ML Engineer, Aifloo (Noomi)__  
+__Data Scientist and ML Engineer, Aifloo (Noomi/Nectarine)__  
 Aifloo develops a non-intrusive e-health system, based on Artificial Intelligence (AI), which increases security and enables elderly to live longer in their homes.  
 
 My main responsibilities included designing and developing algorithms using AI and machine learning to detect and predict user behaviour, using motion sensor data as input.
