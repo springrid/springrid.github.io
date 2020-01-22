@@ -16,11 +16,11 @@ LinkedIn: <a href="https://www.linkedin.com/in/ingridkugelberg/" target="_blank"
 ## Skills
 
 ### Strong
-**AI, Machine Learning, Data Science**: Python, Go, Tensorflow, Keras, Pytorch, Pandas, Scikit-learn
+**AI, Machine Learning, Data Science**: Python, Go, Keras, Pytorch, Pandas, Scikit-learn
  
-**Backend**: Python, Flask, Django, Golang, MySQL, PostgreSQL, MongoDB
+**Backend**: Python, Flask, Golang, MySQL, PostgreSQL, MongoDB
 
-**Tools / Other**: Docker, Kubernetes, Git, Jenkins/Travis, Latex, Matlab
+**Tools / Other**: Docker, Kubernetes, Terraform, Git, Jenkins/Travis, Latex, Matlab
 
 ### Knowledgeable
 React.js, Node.js, Elastic Search
@@ -28,10 +28,11 @@ React.js, Node.js, Elastic Search
 
 ## Projects
 
-### Dec 2019 - Current
+### Dec 2018 - Current
 __Tech Lead, Project Cosimo (Consultant)__, Stockholm  
-Project Cosimo uses ML and reinforcement learning to automate tasks such as logistics planning, transaction matching and other cognitive tasks.
+Stack: Python, React, K8s, Docker, Terraform, Postgres.
 
+Project Cosimo uses ML and reinforcement learning to automate tasks such as logistics planning, transaction matching and other cognitive tasks.
 
 ### Nov 2018 - Dec 2018
 __Data Scientist, Assa Abloy (Consultant)__, Stockholm  
