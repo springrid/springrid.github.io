@@ -1,45 +1,34 @@
----
-layout: cv
-title: Ingrid Kugelberg - Resume
----
 # Ingrid Kugelberg  
 
-An adventure seeking developer with a passion for tech and the outdoors. Loves kitesurfing, skiing and clean code.
+An adventure seeking developer with a passion for tech and the outdoors. Loves kitesurfing, running and skiing.
 
-<!--### Contact 
+### Contact 
 <div id="webaddress">
-Phone: <a href="#">+46 (0)722-034579</a> <br>
+<!--Phone: <a href="#">+46 (0)722-034579</a> <br> -->
 Email: <a href="ingrid@kugelberg.ai">ingrid@kugelberg.ai</a> <br>  
 LinkedIn: <a href="https://www.linkedin.com/in/ingridkugelberg/" target="_blank"> ingridkugelberg</a> <br>
 </div>
--->
 
 ## Skills
 
-### <!--null-->
-<br>
-__Backend__: Golang, Python, Kafka, Databases (MySQL, PostgreSQL, MongoDD, BigQuery, DynamoDB)
+**AI, Machine Learning, Data Science**: Python, Keras, Pytorch, Pandas, Scikit-learn
+ 
+**Backend**: Golang, Python, MySQL/PostgreSQL/MongoDB/BigQuery
 
-__Machine Learning__: Python, Keras, Pytorch, Pandas, Scikit-learn
-
-__Tools / Other__: Docker, Kubernetes, Terraform, Git, GCP/AWS, Jenkins, Travis, Github actions
+**Tools / Other**: Docker, Kubernetes, Terraform, Git, GCP/AWS, Jenkins/Travis
 
 
 ## Projects
 
-### Mar 2023 - Sep 2023
-__Software Engineer, Blocket: Private Buyer Team (Consultant)__, Remote  
-Stack: Golang, ElasticSearch, K8s, Kafka, DynamoDb, AWS, Docker
+### March 2023 - September 2023
+__Software Engineer (Cloud), Blocket (Consultant)__, Remote  
+Stack: Python, AWS
 
-Rebuilding a new search engine for cars using elasticSearch. Replacing many related components with new micro services written in go using kafka for internal communication. Everything running in k8s. 
+### Maj 2021 - Februari 2023
+__Software Engineer (Cloud), Blocket (Consultant)__, Remote  
+Stack: Python, AWS
 
-### May 2021 - Feb 2023
-__Software Engineer, Blocket: Private Seller Team (Consultant)__, Remote  
-Stack: Golang, AWS, K8s, DynamoDb, Kafka, Docker
-
-Rebuilding the new ad insertion flow. Replacing legacy (monolith code) with new microservices written in go. Using kafka for internal communication, storing data in dynamodb and running everything in k8s.
-
-### Jan 2021 - Apr 2021
+### Jan 2021 - April 2021
 __Software Engineer (Cloud), Signality (Consultant)__, Remote  
 Stack: Python, AWS
 
@@ -49,7 +38,7 @@ Stack: Python, Docker, Dataflow, GCP (Airflow, BigQuery)
 
 Working on credit models for iZettles lending products and different infrastructure tasks.
 
-### Dec 2018 - Feb 2020
+### Dec 2018 - Februari 2020
 __Tech Lead, Prometa (Project Cosimo) (Consultant)__, Stockholm/Remote   
 Stack: Python, React, K8s, Docker, Terraform, Postgres
 
@@ -77,19 +66,18 @@ Golang
 ## Experience
 
 ### Nov 2017 - Current  
-__Owner and Consultant, Kugelberg Runs__  
-Working as an independent consultant in Data Science/Machine Learning, backend and infra/devops.
+__Owner and Consultant in AI/ML/BE, Kugelberg Runs__  
+Work as an independent consultant in Data Science, AI and Machine Learning but also back-end and full stack work with focus on development in Python and Golang.  
   
 Clients include: 
 
- - Blocket
- - Signality
  - iZettle (PayPal)
  - Promeata (Project Cosimo)
  - Assa Abloy
  - Neiron
  - Netnod
  - Ivbar
+ - SolutionLoft
 
 ### Mar 2016 - Oct 2017    
 __Data Scientist and ML Engineer, Aifloo (Noomi/Nectarine)__  
@@ -121,9 +109,15 @@ __The Institute of Technology at Linköping University__
 Visiting Student Researcher   
 __University of California, Berkeley__
 
+- Lab: Vehicle Dynamics and Controls Lab
+- GPA: 3.96/4.0
+
 ### 2011 - 2014  
 Bachelors Degree in Applied Physics and Electrical Engineering  
 __The Institute of Technology at Linköping University__
+
+- Thesis: Autonomous Mapping Robot
+- GPA: 4.1/5.0
 <br><br>
 
 <!-- ### Footer
